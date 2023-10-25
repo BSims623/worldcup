@@ -1,1 +1,1 @@
-This is a freeCodeCamp project that inserts data into a worldcup database then makes queries using that database
+This is a freeCodeCamp project that inserts data into a worldcup database from the games.csv file using the bash script insert_data.sh then makes queries using from database using the bash script queries.sh. This project utilizes PostgreSQL and Bash.
